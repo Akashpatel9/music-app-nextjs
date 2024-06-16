@@ -21,7 +21,7 @@ function HeroSection() {
         </h1>
         <h4 className="mt-10 md:text-lg font-normal text-base text-neutral-300 max-w-lg mx-auto">
           Dive into our comprehensive music courses and transform your musical
-          journey today. Whether you're a beginner or looking to refine your
+          journey today. Whether you are a beginner or looking to refine your
           skills, join us to unlock your true potential.
         </h4>
         <div className="mt-14" onClick={() => router.push("/courses")}>
